@@ -1,0 +1,17 @@
+h1{
+  color: white;
+  font-style: italic;
+  font-family: cursive;
+  text-align: center;
+}
+h2{
+  color: blue;
+  font-family: fantasy;
+  font-style: italic;
+}
+.centre{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  }
