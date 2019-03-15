@@ -5,9 +5,10 @@ h1{
   text-align: center;
 }
 h2{
-  color: blue;
+  color: white;
   font-family: fantasy;
   font-style: italic;
+  text-align: center;
 }
 .centre{
   display: block;
@@ -15,3 +16,28 @@ h2{
   margin-right: auto;
   width: 50%;
   }
+h3{
+    font-style: italic;
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+  }
+a{
+  color: darkblue;
+  font-size: 30px;
+  font-family: cursive;
+  text-decoration: none;
+  text-align: center;
+  margin-left: 35px;
+  margin-right: 35px;
+  margin-top: 35px;
+  margin-bottom: 35px;
+  padding-top: 30px;
+}
+li{
+  font-size: 30px;
+  text-align: center;
+  font-family: cursive;
+  color: white;
+  list-style: none;
+}
